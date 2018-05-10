@@ -3,7 +3,7 @@
 ### The variables in the tidy data
 Tidy data contains 181 rows and 88 columns. Each row has averaged variables for each subject and each activity.
 
-### Only all the variables estimated from mean and standard deviation in the tidy set were kept.
+### Variables estimating mean and standard deviation were selected in the tidy set.
 
 * mean(): Mean value
 * std(): Standard deviation
